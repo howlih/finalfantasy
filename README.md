@@ -7,3 +7,6 @@ ccc xxxx  ~~ccccccc~~
 ccccc**This text is _extremely_ important**ccccccc
 > rrrr
 [haven't]( yet@gmail.com)ommitted
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
