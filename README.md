@@ -3,5 +3,6 @@ final fantasy XV
 this is a game
 this is a game
 ## The second largest heading
-# The bigger largest heading
-ccc xxxx  **xxxx** xxx
+# The biggerccccccccccccccccccccc largest heading
+ccc xxxx  ~~ccccccc~~
+cccccc__ccc__ccccccccccccccc
